@@ -1,0 +1,26 @@
+{
+  "name": "claude-teach-me",
+  "version": "1.0.0",
+  "description": "A Claude Code skill that transforms AI from a code generator into a mentor who teaches while doing — ideal for project-driven learning",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "learning",
+    "teach",
+    "mentor",
+    "project-driven-learning",
+    "ai-education"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-teach-me"
+  },
+  "license": "MIT",
+  "bin": {
+    "claude-teach-me": "./install.js"
+  },
+  "files": [
+    "install.js",
+    "SKILL.md"
+  ]
+}
